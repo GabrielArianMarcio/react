@@ -1,9 +1,9 @@
-import React from "react";
+import '../styles/components/pages/NovedadesPage.css';
 
 const NovedadesPage = (props) => {
     return (
-        <section className="holer">
-            <h2>Novedades</h2>
+        <section className="holder">
+            <h2 className='ct'>Novedades</h2>
             <h3>titulo</h3>
             <h4>subtitulo</h4>
             <p>cuerpo</p>
